@@ -1,0 +1,47 @@
+{
+    "name": "wikimedia-emoji-bot",
+    "version": "1.0.0",
+    "description": "A Wikimedia Twitter bot that receives emojis and return images on commons matching properties of the emoji.",
+    "author": {
+        "name": "Alangi Derick",
+        "email": "alangiderick@gmail.com",
+        "url": "https://github.com/ch3nkula"
+    },
+    "contributors": [
+        {
+            "name": "Sébastien Santoro",
+            "email": "dereckson@espace-win.org"
+        },
+        {
+            "name": "Ariel Glenn",
+            "email": "ariel@wikimedia.org"
+        },
+        {
+            "name": "Yuri Astrakhan",
+            "email": "yuriastrakhan@gmail.com"
+        }
+    ],
+    "main": "src/status.js",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wikimedia/labs-tools-Wikimedia-Emoji-Bot"
+    },
+    "dependencies": {
+        "twit": "1.x",
+        "ejs": "2.4.1",
+        "thenby": "^1.2.1"
+    },
+    "devDependencies": {
+        "eslint": "^3.3.0",
+        "foreman": "^1.4.1",
+        "mocha": "^3.0.2"
+    },
+    "keywords": [
+        "twitter-bot",
+        "wikimedia",
+        "bot"
+    ],
+    "license": "MIT"
+}

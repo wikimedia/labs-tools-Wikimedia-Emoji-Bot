@@ -1,0 +1,1 @@
+# Wikimedia Emoji Bot
