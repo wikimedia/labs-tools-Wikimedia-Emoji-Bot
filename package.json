@@ -2,25 +2,6 @@
     "name": "wikimedia-emoji-bot",
     "version": "1.0.0",
     "description": "A Wikimedia Twitter bot that receives emojis and return images on commons matching properties of the emoji.",
-    "author": {
-        "name": "Alangi Derick",
-        "email": "alangiderick@gmail.com",
-        "url": "https://github.com/ch3nkula"
-    },
-    "contributors": [
-        {
-            "name": "Sébastien Santoro",
-            "email": "dereckson@espace-win.org"
-        },
-        {
-            "name": "Ariel Glenn",
-            "email": "ariel@wikimedia.org"
-        },
-        {
-            "name": "Yuri Astrakhan",
-            "email": "yuriastrakhan@gmail.com"
-        }
-    ],
     "main": "src/status.js",
     "scripts": {
     },
